@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 14:51:19</sys_created_on>
+        <sys_id>9d8302d0db670850dfa3b7bc29961946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_scope_app_tr_myscopetable.x_snc_scope_app_tr.myscopetable_user</sys_name>
+        <sys_package display_value="Scope App Training" source="x_snc_scope_app_tr">63a28210db670850dfa3b7bc299619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scope App Training">63a28210db670850dfa3b7bc299619ce</sys_scope>
+        <sys_security_acl display_value="x_snc_scope_app_tr_myscopetable">1d8302d0db670850dfa3b7bc29961943</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9d8302d0db670850dfa3b7bc29961946</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-10 14:51:19</sys_updated_on>
+        <sys_user_role display_value="x_snc_scope_app_tr.myscopetable_user" name="x_snc_scope_app_tr.myscopetable_user">cd830690db670850dfa3b7bc299619cc</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

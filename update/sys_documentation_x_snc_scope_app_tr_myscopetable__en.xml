@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="MyScopeTable" language="en" table="x_snc_scope_app_tr_myscopetable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>MyScopeTable</label>
+            <language>en</language>
+            <name>x_snc_scope_app_tr_myscopetable</name>
+            <plural>MyScopeTables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-10 14:51:19</sys_created_on>
+            <sys_id>d18302d0db670850dfa3b7bc29961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MyScopeTable</sys_name>
+            <sys_package display_value="Scope App Training" source="x_snc_scope_app_tr">63a28210db670850dfa3b7bc299619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Scope App Training">63a28210db670850dfa3b7bc299619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_scope_app_tr_myscopetable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-10 14:51:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

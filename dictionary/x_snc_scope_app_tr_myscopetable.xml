@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyScopeTable" max_length="40" name="x_snc_scope_app_tr_myscopetable" type="collection"/>
+</database>
